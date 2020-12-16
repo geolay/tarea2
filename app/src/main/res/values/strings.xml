@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My ApplicationTarea141220</string>
+    <string name="name">Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="create_acount">Create Acount</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="imagen_astronauta">imagen astronauta</string>
 </resources>
